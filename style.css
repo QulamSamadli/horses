@@ -130,3 +130,19 @@
     position: relative;
     z-index: 1;
   }
+  .divhorse1::after {
+    content: "ŞİMŞƏK";
+    top: 50%;
+    left: 50%;
+    color: white;
+    position: relative;
+    z-index: 1;
+  }
+  .divhorse1::after {
+    content: "BULUD";
+    top: 50%;
+    left: 50%;
+    color: white;
+    position: relative;
+    z-index: 1;
+  }
